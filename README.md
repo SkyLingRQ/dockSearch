@@ -9,4 +9,5 @@ Herramienta que busca paginas web segun el dork ingresado, esto es de ayuda para
 * python dorkSearch.py
 
 # Redes Sociales
-* Instagram ==> 
+* Instagram ==> https://www.instagram.com/skt.skyling014/
+* Discord ==> SkyLing_SK24#5875
