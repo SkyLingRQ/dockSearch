@@ -21,7 +21,7 @@ reset = Fore.RESET
 yellow = Fore.YELLOW
 blue = Fore.BLUE
 
-clear()  
+os.system("clear")  
 class BlockAll(cookiejar.CookiePolicy):
     ok = set_ok = domain_return_ok = path_return_ok = lambda self, *args, **kwargs: False
     netscape = True
@@ -34,8 +34,6 @@ with warnings.catch_warnings():
     warnings.simplefilter("ignore")
     fxn()
 
-def clear(): 
-    return os.system('cls' if os.name == 'nt' else 'clear')
         
 
 Banner = """
