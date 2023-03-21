@@ -1,0 +1,8 @@
+requests
+proxybroker
+google
+txtorcon
+colorama
+bs4
+StringGenerator
+pysocks
