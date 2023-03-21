@@ -21,7 +21,7 @@ reset = Fore.RESET
 yellow = Fore.YELLOW
 blue = Fore.BLUE
 
-os.system("cls")  
+clear()  
 class BlockAll(cookiejar.CookiePolicy):
     ok = set_ok = domain_return_ok = path_return_ok = lambda self, *args, **kwargs: False
     netscape = True
