@@ -7,6 +7,3 @@ Herramienta que busca paginas web segun el dork ingresado, esto es de ayuda para
 * git clone https://github.com/SkyLingRQ/dockSearch
 * python -m pip install -r requirements.txt
 * python dorkSearch.py
-
-# Redes Sociales
-* Instagram ==> https://www.instagram.com/skt.skyling014/
